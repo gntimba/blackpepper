@@ -1,0 +1,13 @@
+.fas.fa-heart:hover {
+  color: #f44336 !important;
+}
+.fas.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
+.card {
+  width: 260px !important;
+  margin-left: 10px;
+}
+img-thumbnail{
+
+}
