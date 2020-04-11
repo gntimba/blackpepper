@@ -4,10 +4,33 @@
 .fas.fa-share-alt:hover {
   color: #0d47a1 !important;
 }
-.card {
-  width: 260px !important;
-  margin-left: 10px;
+.row{
+ max-width: 1024px;
+ margin: 0 auto;
 }
-img-thumbnail{
+.card {
+  width: 220px !important;
+  margin-left: 10px;
+  height: 400px;
+  margin-bottom: 10px;
+}
+img-thumbnail.img {
+  width: 200px;
+  height: 100px;
+  object-fit: cover;
+}
+.card-body{
+  margin-bottom: 50px;
 
+}
+.card-body img{
+  object-fit: cover;
+}
+.view{
+  height: 200px;
+}
+.view img{
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
 }
